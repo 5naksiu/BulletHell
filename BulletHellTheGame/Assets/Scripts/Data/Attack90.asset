@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd011a783e4e8b04c8f5c7165b2bbb43, type: 3}
+  m_Name: Attack90
+  m_EditorClassIdentifier: 
+  bulletResource: {fileID: 4760416382890688116, guid: 8585ab3888900064aba8273911b2298e, type: 3}
+  minRotation: 1
+  maxRotation: 90
+  NumberOfBullets: 10
+  isRandom: 0
+  isNotParent: 1
+  cooldown: 0.2
+  bulletSpeed: 5
+  bulletVelocity: {x: 1, y: 0}
